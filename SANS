@@ -1,0 +1,85 @@
+SANS - Smart Agriculture Nutrioning System
+
+Gambaran Umum
+SANS merupakan pertanian yang menggunakan teknologi IOT dan memanfaatkan data untuk mengambil keputusan.
+Ide utamanya adalah individual yaitu tiap tanaman (diawali dengan padi) merupakan sebuah individu yang memiliki riwayatnya masing masing dan memiliki pendekatan yang berbeda tiap individunya.
+SANS menggunakan banyak sensor antara lain tanah dan udara serta kamera pada drone untuk mengambil data pada tumbuhan dan lingkungan sekitar.
+SANS memiliki 3 sumber data yaitu pengetahuan/wawasan dari teori yang sudah ada, riwayat data dari tanaman lain yang sudah diambil datanya, dan riwayat data dari individu tersebut.
+SANS menggunakan sumber data tersebut untuk menentukan perlakuan kepada tiap individu, yaitu seberapa banyak pupuk dan air yang diberikan dengan menggunakan teknologi machine learning.
+SANS menggunakan teknologi drone untuk memberikan nutrisi berdasarkan hasil dari machine learning.
+
+History
+Ide SANS muncul pada semester 1 dan semester 2 perkuliahan Hizkia di ITS.
+Pada semester 1, Hizkia, Haffi dan Metta mengembangkan SANS secara konsep hingga didapatkan ide mengenai drone, machine learning, sensor, dan aplikasi
+Pada semester 2, Hizkia, Yubi, Davin, dan Rifqi mengembangkan lebih detail mengenai rancangan aplikasinya
+
+Timeline
+2027 - 2029 
+Hizkia mencari dana dan partner. Sumber dana dapat berasal dari uang sendiri ataupun sumber lain sesuai dengan wawasan Hizkia saat itu.
+2030 
+Hizkia masih bekerja namun sudah memperkerjakan orang untuk mulai mengambil data di sawah. 
+Hizkia menjalin kerjasama dengan berbagai sawah dengan kondisi yang berbeda selain itu juga menggunakan tanah milik keluarga papa (jika ada)
+Hizkia membeli drone dan database untuk mengambil data gambar padi di berbagai sawah lalu pekerja menjalankan dronenya. 
+Hizkia menggunakan drone yang sudah dimodifikasi untuk melakukan praktik pertanian pada suatu sawah dengan berbagai variabel (jenis pupuk, jenis tanaman, dll)
+Data yang sudah dikumpulkan digunakan untuk membentuk keputusan
+Hizkia Pre-Married Relationship
+
+2031 cycle 1
+Hizkia membentuk tim untuk membangun aplikasi, mengurus kerjasama, membangun machine learning dsb. 
+Melakukan kerja sama dengan para petani atau pemilik tanah yang tidak memiliki waktu atau pekerja, menawarkan bantuan tenaga dengan harga dibawah tenaga. 
+Tujuan utama adalah untuk melakukan testing machine learning.
+Sistem kerjasama adalah SANS menawarkan tenaga pengolahan kepada pemilik lahan. Pemilik lahan membiayai tanah, pupuk, air, dan benih. 
+SANS mendapatkan bayaran seharga tenaga kerja yang mungkin akan dikeluarkan pemilik lahan jika tidak menggunakan SANS.
+Pembagian keuntungan dapat direncanakan sesuai dengan wawasan negosiasi pada saat itu.
+Target 1 desa
+
+2031 cycle 2
+SANS launching
+SANS membeli tanah yang murah untuk melakukan riset dan pengolahan padi
+Ada beberapa model bisnis
+1. SANS menjual teknologi yaitu aplikasi beserta drone kepada petani dan petani menjalankan sendiri teknologinya
+2. SANS menjual tenaga kerja pengolahan kepada pemilik tanah sehingga tanah dikelola oleh pihak SANS menggunakan teknologinya. Skemanya sama seperti cycle 1
+3. SANS membeli tanah, mengolah pertanian menggunakan teknologinya serta menjual hasil pertaniannya sendiri. 
+Target 1 kabupaten dengan kecamatan yang terpisah
+
+2031 cycle 3 - 2032
+Berdasarkan data customer, SANS terus memperbaiki model machine learningnya
+SANS memperluas target penjualanya terkait seluruh skemanya, baik menjual teknologi, menjual tenaga kerja, serta mengolah padi sendiri
+SANS meningkatkan teknologinya dan diimplementasikan pada tanahnya sendiri, semakin lama semakin banyak fitur dan semakin efektif. 
+Perkembangan teknologi diprioritaskan pada tanah SANS sendiri
+Target menjual teknologi 60% dari provinsi di Jawa Tengah dan Jawa Timur
+Target stabilitas
+
+2033
+Mengakuisisi lebih banyak tanah berfokus pada pengolahan lahan mandiri
+Lahan petani yang diakuisisi akan memperkerjakan keturunan dari pemilik tanah, petani, atau masyarakat sekitar
+Penjualan teknologi dan tenaga kerja lebih difokuskan pada pengenalan machine learning terhadap tanah di tempat itu
+Membuat pabrik di lahan milik SANS untuk mengolah hasil panen menjadi hasil jadi
+Pabrik dibuat dengan teknologi tingkat lanjut untuk menghasilkan hasil yang maksimal
+Membuat sistem logistik
+Target akuisisi tanah 20, 30, 40% dari provinsi Jawa Tengah dan Jawa Timur
+Komposisi distribusi beras sekitar 50 30 20 Jawa Non Jawa Ekspor
+Hizkia Married
+
+2034 cycle 1
+Persiapan riset untuk pembuatan pupuk organik dan pupuk murah untuk menekan biaya produksi
+Persiapan untuk memperbanyak ekspor beras untuk menjaga komoditas beras dalam negeri
+Berhenti menambah kapasitas dan lebih ke menjual teknologi
+Target menemukan produk pupuk terbaik dan termurah
+
+2034 cycle 2
+Mengimplementasikan pupuk pada 10% lahan milik SANS
+Mengembangkan pupuk lebih lagi
+
+2034 cycle 3
+Mengimplementasikan pupuk pada 50% lahan milik SANS
+
+2035 cycle 1
+Membangun pabrik pupuk organik dan semacamnya
+Mengimplementasikan pupuk pada 80% lahan milik SANS
+Hizkia Kuliah di Aalto Finland untuk update Teknologi
+
+-------- Timeskip 2 Tahun -----------
+Stabilitas 
+Perluasan Tanah
+Inovasi Teknologi dan Pupuk
